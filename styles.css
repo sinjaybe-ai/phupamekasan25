@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; }
+.card { border: 1px solid rgba(0,0,0,.08); border-radius: 0.75rem; padding: 1rem; }
+.dark .card { border-color: rgba(255,255,255,.1); }
+.badge { display:inline-block; padding:2px 6px; border-radius:6px; background:#e9f8ee; color:#0f3d23; font-size:0.75rem; }
+.dark .badge { background:#0f3d23; color:#cde4d3; }
